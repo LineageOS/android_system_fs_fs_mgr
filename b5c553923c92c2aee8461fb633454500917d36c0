@@ -16,6 +16,24 @@
       "message": "seems like it fails later:\n07-16 00:49:33.610  1863  1863 E update_engine: [ERROR:snapshot.cpp(3792)] PartitionCowCreator returned no value for odm_b\n07-16 00:49:33.610  1863  1863 E update_engine: [ERROR:snapshot.cpp(3632)] CreateUpdateSnapshotsInternal failed: Error\n07-16 00:49:33.611  1863  1863 E update_engine: [ERROR:dynamic_partition_control_android.cc(1038)] Cannot create update snapshots: Error",
       "revId": "b5c553923c92c2aee8461fb633454500917d36c0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "36f2b781_8d1828e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-07-15T22:54:51Z",
+      "side": 1,
+      "message": "07-16 00:49:33.609  1863  1863 E update_engine: [ERROR:partition_cow_creator.cpp(134)] Update manifest does not include a COW size",
+      "parentUuid": "bbab0192_3edf74a7",
+      "revId": "b5c553923c92c2aee8461fb633454500917d36c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
