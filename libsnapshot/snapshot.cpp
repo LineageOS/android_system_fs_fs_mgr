@@ -3576,8 +3576,7 @@ Return SnapshotManager::CreateUpdateSnapshots(const DeltaArchiveManifest& manife
 
     const bool using_snapuserd = userspace_snapshots || legacy_compression;
     if (!using_snapuserd) {
-        LOG(ERROR) << "Using legacy Virtual A/B (dm-snapshot)";
-        return Return::Error();
+        LOG(INFO) << "Using legacy Virtual A/B (dm-snapshot)";
     }
     auto disable_ublk_through_manifest = false;
     // Disabling UBLK based snapshots can be requested explicitly through manifest.
