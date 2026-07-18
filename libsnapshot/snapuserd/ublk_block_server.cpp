@@ -214,9 +214,21 @@ bool UblkBlockServer::ProcessRequest(const struct ublk_io_data* data) {
             break;
 
         case UBLK_IO_OP_WRITE:
-            // We should not get any write request to ublk as we mount all
-            // partitions as read-only.
-            SNAP_LOG(ERROR) << "Unexpected write request from ublk";
+            if ((iod->nr_sectors << SECTOR_SHIFT) == 0) {
+                io_done = true;
+                break;
+            }
+
+            if ((iod->nr_sectors << SECTOR_SHIFT) % SECTOR_SIZE != 0) {
+                SNAP_LOG(ERROR) << "Write request has unaligned length: "
+                                << (iod->nr_sectors << SECTOR_SHIFT);
+                break;
+            }
+
+            io_done = delegate_->CommitSectors(iod->start_sector,
+                                               reinterpret_cast<const void*>(iod->addr),
+                                               iod->nr_sectors << SECTOR_SHIFT);
+            SNAP_LOG(DEBUG) << "CommitSectors for sector " << iod->start_sector << " returned";
             break;
 
         default:
