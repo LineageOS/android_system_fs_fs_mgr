@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d9672022_38b2bd9e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-08-27T16:07:38Z",
+      "side": 1,
+      "message": "Assumed V+, I don\u0027t Magisk, but the code surrounding this hasn\u0027t changed since the last rev.",
+      "revId": "2a0599a65d8c7df1bae5aff7198b18d1e827300f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
