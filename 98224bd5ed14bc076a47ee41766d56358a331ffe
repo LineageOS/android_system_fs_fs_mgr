@@ -33,6 +33,23 @@
       "message": "author requested hold",
       "revId": "98224bd5ed14bc076a47ee41766d56358a331ffe",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "14acb0e3_f17de1ff",
+        "filename": "libsnapshot/snapuserd/utility.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-13T19:58:00Z",
+      "side": 1,
+      "message": "NOOP, we don\u0027t care about GSI support.",
+      "revId": "98224bd5ed14bc076a47ee41766d56358a331ffe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
