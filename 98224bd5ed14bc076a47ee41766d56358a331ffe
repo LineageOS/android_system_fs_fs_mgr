@@ -16,6 +16,23 @@
       "message": "looks better now, and still works.",
       "revId": "98224bd5ed14bc076a47ee41766d56358a331ffe",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abc10b7b_d401f6d6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-13T19:40:10Z",
+      "side": 1,
+      "message": "author requested hold",
+      "revId": "98224bd5ed14bc076a47ee41766d56358a331ffe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
