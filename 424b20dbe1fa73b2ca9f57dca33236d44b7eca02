@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb99a32a_43b9f36b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T04:16:37Z",
+      "side": 1,
+      "message": "Just a few suggestions to further refine and reduce delta",
+      "revId": "424b20dbe1fa73b2ca9f57dca33236d44b7eca02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b9fd2522_421c3bda",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T04:16:37Z",
+      "side": 1,
+      "message": "```suggestion\n    if (UpdateUsesUserSnapshots(lock)) {\n        return SnapshotManager::SnapshotDriver::DM_SNAPSHOT;\n    }\n```",
+      "revId": "424b20dbe1fa73b2ca9f57dca33236d44b7eca02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "19a67e8b_eb6a1da8",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T04:16:37Z",
+      "side": 1,
+      "message": "Restore original spacing and if block",
+      "revId": "424b20dbe1fa73b2ca9f57dca33236d44b7eca02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e1e878c6_58e6e95b",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 1946,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T04:16:37Z",
+      "side": 1,
+      "message": "Move this back to the original location",
+      "revId": "424b20dbe1fa73b2ca9f57dca33236d44b7eca02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bdc4d827_8ba04858",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 2957,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T04:16:37Z",
+      "side": 1,
+      "message": "remove line",
+      "revId": "424b20dbe1fa73b2ca9f57dca33236d44b7eca02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
