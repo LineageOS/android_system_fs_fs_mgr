@@ -16,6 +16,23 @@
       "message": "Works fine here",
       "revId": "f06734af9ea663ce569d17c93ae60092cc44cb28",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87b5a555_6fe89247",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34519
+      },
+      "writtenOn": "2026-09-15T05:45:50Z",
+      "side": 1,
+      "message": "Works fine for my devices as well",
+      "revId": "f06734af9ea663ce569d17c93ae60092cc44cb28",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
