@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72b7f534_40a7b642",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 3389,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T19:37:50Z",
+      "side": 1,
+      "message": "not needed",
+      "range": {
+        "startLine": 3387,
+        "startChar": 0,
+        "endLine": 3389,
+        "endChar": 32
+      },
+      "revId": "7dfa1109213e237cbebde645d16403c77b45935e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "86db9191_80d2798e",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 3500,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T19:37:50Z",
+      "side": 1,
+      "message": "this looks off?\nshould it be only !UpdateUsesUserSnapshots()",
+      "revId": "7dfa1109213e237cbebde645d16403c77b45935e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
