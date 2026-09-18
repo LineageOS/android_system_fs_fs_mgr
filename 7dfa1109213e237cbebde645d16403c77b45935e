@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "da690c74_24278ec7",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 3389,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-18T19:41:51Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "72b7f534_40a7b642",
+      "range": {
+        "startLine": 3387,
+        "startChar": 0,
+        "endLine": 3389,
+        "endChar": 32
+      },
+      "revId": "7dfa1109213e237cbebde645d16403c77b45935e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "86db9191_80d2798e",
@@ -37,6 +61,24 @@
       "writtenOn": "2026-09-18T19:37:50Z",
       "side": 1,
       "message": "this looks off?\nshould it be only !UpdateUsesUserSnapshots()",
+      "revId": "7dfa1109213e237cbebde645d16403c77b45935e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f241fa3b_12ef207f",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 9
+      },
+      "lineNbr": 3500,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-18T19:41:51Z",
+      "side": 1,
+      "message": "right, this only cares about dm-user anyway, so we don\u0027t need it.",
+      "parentUuid": "86db9191_80d2798e",
       "revId": "7dfa1109213e237cbebde645d16403c77b45935e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
