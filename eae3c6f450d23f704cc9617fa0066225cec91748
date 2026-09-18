@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "83001c4e_a75488e9",
+        "filename": "libsnapshot/snapshot.cpp",
+        "patchSetId": 11
+      },
+      "lineNbr": 2939,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T19:45:03Z",
+      "side": 1,
+      "message": "unused",
+      "range": {
+        "startLine": 2939,
+        "startChar": 0,
+        "endLine": 2939,
+        "endChar": 49
+      },
+      "revId": "eae3c6f450d23f704cc9617fa0066225cec91748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
