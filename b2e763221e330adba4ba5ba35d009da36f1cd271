@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ba0ec553_e730780a",
+        "filename": "libsnapshot/dm_snapshot_internals.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T20:25:11Z",
+      "side": 1,
+      "message": "technically unused",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 78
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "36c5788d_e8e35328",
+        "filename": "libsnapshot/include/libsnapshot/snapshot.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 425,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T20:25:11Z",
+      "side": 1,
+      "message": "I think this can go, we don\u0027t have tests?",
+      "range": {
+        "startLine": 425,
+        "startChar": 0,
+        "endLine": 425,
+        "endChar": 43
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "335992b6_4f537962",
+        "filename": "libsnapshot/include/libsnapshot/snapshot.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 785,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-18T20:25:11Z",
+      "side": 1,
+      "message": "unused",
+      "range": {
+        "startLine": 785,
+        "startChar": 0,
+        "endLine": 785,
+        "endChar": 90
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
