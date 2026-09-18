@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "33a3c0b6_18ed5682",
+        "filename": "libsnapshot/include/libsnapshot/snapshot.h",
+        "patchSetId": 12
+      },
+      "lineNbr": 904,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-09-18T20:17:11Z",
+      "side": 1,
+      "message": "This is unused now",
+      "revId": "6c1e59c288feab79bdb3c6ac57748c0187d0e3a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
