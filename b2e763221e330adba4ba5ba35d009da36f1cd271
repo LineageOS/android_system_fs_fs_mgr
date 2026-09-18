@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "838f29b1_f12322c1",
+        "filename": "libsnapshot/dm_snapshot_internals.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-18T20:29:11Z",
+      "side": 1,
+      "message": "Acknowledged, but I\u0027m ok leaving it.",
+      "parentUuid": "ba0ec553_e730780a",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 78
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "36c5788d_e8e35328",
@@ -47,6 +71,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9137b3a4_58028746",
+        "filename": "libsnapshot/include/libsnapshot/snapshot.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 425,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-18T20:29:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "36c5788d_e8e35328",
+      "range": {
+        "startLine": 425,
+        "startChar": 0,
+        "endLine": 425,
+        "endChar": 43
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "335992b6_4f537962",
@@ -60,6 +108,30 @@
       "writtenOn": "2026-09-18T20:25:11Z",
       "side": 1,
       "message": "unused",
+      "range": {
+        "startLine": 785,
+        "startChar": 0,
+        "endLine": 785,
+        "endChar": 90
+      },
+      "revId": "b2e763221e330adba4ba5ba35d009da36f1cd271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fafdaed_ab07b2a9",
+        "filename": "libsnapshot/include/libsnapshot/snapshot.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 785,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-18T20:29:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "335992b6_4f537962",
       "range": {
         "startLine": 785,
         "startChar": 0,
