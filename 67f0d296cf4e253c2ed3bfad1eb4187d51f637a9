@@ -16,6 +16,24 @@
       "message": "pending expensive testing on my flight of devices once I build monthlies.\n\nNeed your V+/CR+1 as well @khargosxh18@gmail.com",
       "revId": "67f0d296cf4e253c2ed3bfad1eb4187d51f637a9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf50f3da_c8811788",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 38083
+      },
+      "writtenOn": "2026-10-08T20:11:34Z",
+      "side": 1,
+      "message": "Tested on my end as well, looks good. Thanks for testing and verifying!",
+      "parentUuid": "62c25c52_06526950",
+      "revId": "67f0d296cf4e253c2ed3bfad1eb4187d51f637a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
