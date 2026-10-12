@@ -51,6 +51,24 @@
       "message": "was this LLM?\n\nIf so mark as such.\n\nAlso, please simplify commit message, reads a bit LLM\u0027y",
       "revId": "67f0d296cf4e253c2ed3bfad1eb4187d51f637a9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0680861e_39b9a117",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 38083
+      },
+      "writtenOn": "2026-10-12T18:05:05Z",
+      "side": 1,
+      "message": "Done, I use an LLM mainly for messages, as I\u0027m not good at writing them, and to cross-check sensitive code like this.",
+      "parentUuid": "1ce1dc58_f64fdc37",
+      "revId": "67f0d296cf4e253c2ed3bfad1eb4187d51f637a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
