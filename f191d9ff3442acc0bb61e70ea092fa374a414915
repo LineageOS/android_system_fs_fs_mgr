@@ -16,6 +16,24 @@
       "message": "I\u0027d say fix kernel instead.",
       "revId": "f191d9ff3442acc0bb61e70ea092fa374a414915",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ced6f063_184375eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29742
+      },
+      "writtenOn": "2026-10-19T23:47:43Z",
+      "side": 1,
+      "message": "I agree with this. Checking again, kernel version 5.x already has the upstream/backport for that driver, and it seems a backport for kernel versions below 5 is needed as well.",
+      "parentUuid": "728cc699_8cb4369d",
+      "revId": "f191d9ff3442acc0bb61e70ea092fa374a414915",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
